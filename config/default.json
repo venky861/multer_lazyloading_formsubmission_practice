@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Venky_3:Venkitheviper123@cluster0-uu1vr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "i am the king"
+}
